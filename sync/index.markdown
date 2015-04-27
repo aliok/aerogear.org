@@ -72,7 +72,11 @@ Besides the libraries we do already have a little [demo application](https://git
 
 The JavaScript client comes with a WebSocket-based library. 
 
-Our JS library is located [here](https://github.com/aerogear/aerogear-js#diff-sync). A demo, which can be used against the above Java server, is located [here](https://github.com/aerogear/aerogear-js-cookbook/tree/master/diff-sync-ember).
+Our JS library is located [here](https://github.com/aerogear/aerogear-js#diff-sync). 
+Following demos which can be used against the above Java server are available:
+* [Ember based demo](https://github.com/aerogear/aerogear-js-cookbook/tree/master/diff-sync-ember)
+* [Ionic/Angular based demo](https://github.com/aerogear/aerogear-js-cookbook/tree/master/diff-sync-ionic)
+* [Html canvas demo based on Fabric.js](https://github.com/aerogear/aerogear-js-cookbook/tree/master/diff-sync-canvas)
 
 
 
